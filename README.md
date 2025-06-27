@@ -1,5 +1,3 @@
-# Stock-Price-Prediction-Using-Machine-Learning
-
 # 📈 Stock Price Prediction Using Machine Learning
 
 This project develops an advanced stock price prediction system that integrates financial data acquisition, feature engineering, machine learning, and interactive visualization. It enables users to analyze and forecast stock prices using historical data and receive trading recommendations via an intuitive web interface.
