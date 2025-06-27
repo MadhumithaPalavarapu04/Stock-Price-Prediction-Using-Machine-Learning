@@ -32,3 +32,7 @@ This project develops an advanced stock price prediction system that integrates 
 | `pandas`, `numpy` | Data manipulation |
 | `matplotlib` | Data visualization |
 | `scikit-learn` | Machine Learning (Random Forest Regressor) |
+
+---
+
+**Domain:** Machine Learning, Time Series Forecasting, Financial Analysis
